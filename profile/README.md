@@ -1,4 +1,4 @@
-![Panda CMS](images/panda-text.png)
+![Panda CMS](https://github.com/pandacms/.github/blob/main/images/panda-transparent.png?raw=true)
 
 # Panda is the CMS we always wanted. ✨ 
 
@@ -10,7 +10,7 @@ We're building a CMS for 2024, with the modern technologies we love:
 * Tailwind CSS
 * One-Click Deploys
 
-We're [Otaina](https://www.otaina.co.uk), a small group of freelancers. We needed something that could handle websites large and small – but where we could expand it too. We'll be sending the first websites live in March 2024.
+We're [Otaina](https://www.otaina.co.uk), a small group of freelancers. We needed something that could handle websites large and small – but where we could expand it too. We'll be sending the first websites live in summer 2024.
 
 We're building Panda in public. We welcome people who want to try it out, ideas, and contributions. In return, we'll try build something great – and remember, Matz is nice and so we are nice. 😊
 
