@@ -1,4 +1,4 @@
-![Panda CMS](https://github.com/pandacms/.github/blob/main/images/panda-transparent.png?raw=true)
+![Panda CMS](https://github.com/pandacms/.github/blob/main/images/panda-transparent-small.png?raw=true)
 
 # Panda is the CMS we always wanted. ✨ 
 
