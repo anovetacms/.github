@@ -19,14 +19,14 @@ We're building Panda in public. We welcome people who want to try it out, ideas,
 
 Here's our initial roadmap:
 
-🟢 Quick installation and upgrades: install a Ruby gem and get going.
-🟢 Page management
-🟢 Menu management
-🟠 File management
-🟠 Analytics
-🔴 User management
-🟢 Quick deployment
-🔴 Documentation
+* 🟢 Quick installation and upgrades: install a Ruby gem and get going.
+* 🟢 Page management
+* 🟢 Menu management
+* 🟠 File management
+* 🟠 Analytics
+* 🔴 User management
+* 🟢 Quick deployment
+* 🔴 Documentation
 
 We're expecting a "Pro" version will incorporate membership and community features. We'll offer a paid license for this. Hosting services, and pre-made themes, might join as additional services one day.
 
